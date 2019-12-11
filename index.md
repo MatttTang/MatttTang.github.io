@@ -9,8 +9,11 @@ Summer - 2019
 <img src="images/game.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Phone Application
+Spring - 2019
+[Dialer Application](/pdf/sample_presentation.pdf)
+<img src="images/phone.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
