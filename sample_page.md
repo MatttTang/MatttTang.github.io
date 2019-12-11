@@ -8,20 +8,12 @@ Using the Unity Engine, I created a game to learn the basics of game development
 I manged to read player inputs, and added animations to the sprite to enhance gameplay. 
 
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Dialer Application
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Using the Qt Application Creator, I created a phone dialer app. This application read in user input numbers, and filtered out a 
+contact list by number, and letters corresponding to numbers. This application also presented users instant feedback via visual
+cues, changing button colors when they are selected. Creating this application, I learned how to interact with a database, and 
+how to create user-interfaces. 
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
