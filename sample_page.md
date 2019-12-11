@@ -6,11 +6,7 @@
 
 Using the Unity Engine, I created a game to learn the basics of game development. I learned the basics of Object Oriented Programming.
 I manged to read player inputs, and added animations to the sprite to enhance gameplay. 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+
 
 ### 2. Assess assumptions on which statistical inference will be based
 
