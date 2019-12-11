@@ -13,7 +13,7 @@ Summer - 2019
 ### Phone Application
 Spring - 2019
 [Dialer Application](/pdf/sample_presentation.pdf)
-<img src="images/phone.jpg?raw=true"/>
+<img src="images/phone.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
