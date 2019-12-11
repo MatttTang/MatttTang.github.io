@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Personal Platformer Game
+Summer - 2019
 
-[Project 1 Title](/sample_page)
+[Fox Run](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
