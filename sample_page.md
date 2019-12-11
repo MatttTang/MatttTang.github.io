@@ -11,5 +11,4 @@ contact list by number, and letters corresponding to numbers. This application a
 cues, changing button colors when they are selected. Creating this application, I learned how to interact with a database, and 
 how to create user-interfaces. 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="mattttang.github.io">Return<a>
