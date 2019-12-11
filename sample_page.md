@@ -11,4 +11,3 @@ contact list by number, and letters corresponding to numbers. This application a
 cues, changing button colors when they are selected. Creating this application, I learned how to interact with a database, and 
 how to create user-interfaces. 
 
-Return(/index.md)
