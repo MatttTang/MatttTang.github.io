@@ -6,7 +6,7 @@
 Summer - 2019
 
 [Fox Run](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/game.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
