@@ -22,7 +22,7 @@ Spring - 2019
 Winter - 2019
 
 [Command Line Snake](/sample_page)
-<img src="imgaes/Snake.JPG?raw=true"/>
+<img src="images/Snake.JPG?raw=true"/>
 
 ---
 
