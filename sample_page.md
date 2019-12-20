@@ -11,3 +11,7 @@ contact list by number, and letters corresponding to numbers. This application a
 cues, changing button colors when they are selected. Creating this application, I learned how to interact with a database, and 
 how to create user-interfaces. 
 
+### 3. Command Line Snake
+
+Using C++, I created the classic snake game played in the terminal. Within this game the player moves the snake head around, and fruit are randomly generated on the game board. When consumed, the snake's tail will increase in length, and the game will speed up. The player will lose in the event that the snake head makes contact with its own tail, or the boundary of the game board. 
+In this personal project, I learned how to manage a complex data structure that is constantly changing. I also learned how to work with two-dimensional matrices, and further familiarized myself with basic game design.
