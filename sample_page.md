@@ -1,7 +1,9 @@
-### 1. Platformer Game
+### 1. Survival Fox Game
 
 Using the Unity Engine, I created a game to learn the basics of game development. I learned the basics of Object Oriented Programming.
-I manged to read player inputs, and added animations to the sprite to enhance gameplay. 
+I manged to read player inputs, and autonomously instantiate game objects at random locations within bounds. I also managed to make these randomly generated game objects interact with the player character. This project is still under development, as the aesthetics of it are very basic. I will later implement animations, and better UI elements. What is done are the core functionalities of the game such as player input, enemy spawning, collectable items, option menu sliders, and game data that saves through play sessions.
+
+Since this is my first experience in the Unity Engine, learning by myself was very difficult. Much of my time was spent reading various APIs, documentations, and looking at many forums regarding some quirks in Unity. Since I am still in University, finding the time to work on this project is also difficult, but I think this experience has been well worth it. Game development is a passion of mine, and even my professional career does not involve game design, I plan on wokring on personal projects beside my professional career.
 
 
 ### 2. Dialer Application
