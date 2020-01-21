@@ -6,6 +6,7 @@
 Winter - 2019
 
 [Survival Fox Game](/sample_page)
+<br></br>
 <a href="https://youtu.be/OY99J-FbXdY" target=_blank> Video Demo </a>
 <img src="images/SurvivalSC.JPG?raw=true"/>
 
