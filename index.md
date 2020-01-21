@@ -2,11 +2,11 @@
 
 ---
 
-### Personal Platformer Game
-Summer - 2019
+### Personal Game Project
+Winter - 2019
 
-[Fox Run](/sample_page)
-<img src="images/game.jpg?raw=true"/>
+[Survival Fox Game](/sample_page)
+<img src="images/SurvivalSC.JPG?raw=true"/>
 
 ---
 
