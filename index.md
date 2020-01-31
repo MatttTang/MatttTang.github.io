@@ -24,6 +24,8 @@ Spring - 2019
 Winter - 2019
 
 [Command Line Snake](/sample_page)
+<br>
+<a href="https://youtu.be/ma6rkCk0Hso"> Video Demo </a>
 <img src="images/Snake.JPG?raw=true"/>
 
 ---
